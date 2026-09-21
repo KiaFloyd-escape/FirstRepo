@@ -1,3 +1,3 @@
 # FirstRepo
 
-Chnages made
+Changes made
